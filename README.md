@@ -1,6 +1,3 @@
-
-[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/denisbabadzhanov/)
-
 # Booking.com Cypress-JS-TEST-Automation
 
 ## A Cypress test automation project for booking.com
