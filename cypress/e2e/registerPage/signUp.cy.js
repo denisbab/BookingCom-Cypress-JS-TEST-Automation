@@ -1,4 +1,4 @@
-import StartPage from '../pages/startPage';
+import StartPage from '../pages/StartPage';
 import RegisterPage from '../pages/RegisterPage';
 
 const registerPage = new RegisterPage();
