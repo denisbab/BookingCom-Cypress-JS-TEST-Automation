@@ -28,7 +28,7 @@ describe('Stays Search flow', () => {
       'Please enter a destination to start searching.'
     );
   });
-  it.only('US-002: Success search scenario', () => {
+  it('US-002: Success search scenario', () => {
     startPage.typeDestination(testData.destination);
     startPage.openDatePicker();
     startPage.selectDatePickerDay(testData.startDate);
