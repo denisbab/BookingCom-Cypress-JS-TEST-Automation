@@ -39,4 +39,4 @@ The Booking Captcha is typically displayed during the final step of the SignIn/S
 
 As a reporter tool used cypress-mochawesome-reporter. It's already installed in a project. After earch "npx cypress run" command an updated report will be created in a folder cypress/reports/html
 
-The latest report you can find [here](https://dbabadzhanov.github.io/report-page/)
+The latest report you can find [here](https://dbab.github.io/report-page/)
